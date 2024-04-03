@@ -37,8 +37,7 @@
   <td width="25%" align="center">
     <p align="center">
      <p>Description</p>
-     <a href="" title="Go to Source">
-        <img align="center" width=100% src=""   alt="VIDEO" /></a>
+        <img align="center" width=100% src="https://fv5-2.failiem.lv/thumb_show.php?i=u46cduk42d&download_checksum=e7ddc7cd1a99e97a27cdcf42c969ba687757e05f&download_timestamp=1712102225"   alt="CryptoBridge" />
       </p>
     <p align="center">
         <a href="https://youtu.be/" target="blank"><img align="center" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Video Link"  /></a>
@@ -51,8 +50,8 @@
 
    <td width="25%" align="center">
     <p align="center">
-     <a href="https://youtu.be/FbQtooM3UIs" title="Go to Source">
-        <img align="center" width=100% src="https://raw.githubusercontent.com/unsimpledev/unsimpledev/main/assets/traductorchatgpt.webp"   alt="VIDEO" /></a>
+      <p>Description</p>
+        <img align="center" width=100% src="https://files.fm/thumb.php?i=5jy23hq657"   alt="TasAI" />
       </p>
     <p align="center">
         <a href="https://youtu.be/FbQtooM3UIs" target="blank"><img align="center" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="@unsimpledev"  /></a>
