@@ -36,11 +36,13 @@
 <tr border="none">
   <td width="25%" align="center">
     <p align="center">
-     <p>Description</p>
+     <p>A BlockChain-based trust funding manager. Developed in Solidity, it is compatible with EVM BlockChains such as Ethereum Mainnet. It allows to create, open, close and withdraw fundraisings, and donate to them and leave a message.</p>
         <img align="center" width=100% src="https://fv5-2.failiem.lv/thumb_show.php?i=u46cduk42d&download_checksum=e7ddc7cd1a99e97a27cdcf42c969ba687757e05f&download_timestamp=1712102225"   alt="CryptoBridge" />
       </p>
     <p align="center">
+      <!--
         <a href="https://youtu.be/" target="blank"><img align="center" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Video Link"  /></a>
+      -->
       <a href="https://github.com/FedericoCandiolo/CryptoBridge" target="blank"><img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="@unsimpledev" /></a>
     </p>
     <p>
@@ -50,11 +52,13 @@
 
    <td width="25%" align="center">
     <p align="center">
-      <p>Description</p>
-        <img align="center" width=100% src="https://files.fm/thumb.php?i=5jy23hq657"   alt="TasAI" />
+      <p>An AI-powered property appraiser. Developed as a team as my Final Project of Systems Engineering. Based on the characteristics of the property, the ML model appraises it based on a dataset of properties in Buenos Aires, Argentina.</p>
+          <img align="center" height=100% src="https://files.fm/thumb.php?i=5jy23hq657"   alt="TasAI" />
       </p>
     <p align="center">
-        <a href="https://youtu.be/FbQtooM3UIs" target="blank"><img align="center" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="@unsimpledev"  /></a>
+        <!--
+      <a href="https://youtu.be/FbQtooM3UIs" target="blank"><img align="center" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="@unsimpledev"  /></a>
+      -->
       <a href="https://github.com/unsimpledev/MiTraductor" target="blank"><img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="@unsimpledev" /></a>
     </p>
      <img src="https://skillicons.dev/icons?i=python,django,sqlite,js,html,css,nodejs,npm,react" />
